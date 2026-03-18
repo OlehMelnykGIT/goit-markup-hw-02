@@ -6,6 +6,7 @@ body {
 
 a {
     color: inherit;
+    text-decoration: none;
 
 }
 
@@ -137,12 +138,8 @@ p {
     line-height: 1.11;
 }
 
-.worker-item{
-    background-color: #ffffff;
-    padding: 16px;
-}
 
-.worker-name {
+.name-worker {
     font-size: 20px;
     color: #2e2f42;
     text-align: center;
