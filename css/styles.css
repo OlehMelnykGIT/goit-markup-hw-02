@@ -60,6 +60,9 @@ address {
     color: #404bbf;
 }
 
+h1, h2, h3 {
+    margin: 0;
+}
 .purpose {
     background-color: #2e2f42;
 }
