@@ -110,6 +110,12 @@ h1, h2, h3 {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.worker-section {
+    background-color: #f4f4fd;
+}
+.worker-item{
+    background-color: #ffffff;
+}
 
 .worker-title{
     font-size: 36px;
@@ -137,9 +143,7 @@ h1, h2, h3 {
     letter-spacing: 0.02em;
 }
 
-.worker-section {
-    background-color: #f4f4fd;
-}
+
 .portfolio-section {
     background-color: #ffffff;
 }
